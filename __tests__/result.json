@@ -1,0 +1,26 @@
+{
+    "status": false,
+    "total": 1,
+    "failed": 1,
+    "passed": 0,
+    "startTime": 1581399271132,
+    "duration": 1659,
+    "endTime": 1581399272791,
+    "suites": [
+        {
+            "describe": "Div Function",
+            "file": "div.test.js",
+            "test": [
+                {
+                    "fullName": "Div Function given 6 and 2 returns 3",
+                    "title": "given 6 and 2 returns 3",
+                    "status": false
+                }
+            ],
+            "total": 1,
+            "passed": 0,
+            "failed": 1,
+            "status": false
+        }
+    ]
+}
